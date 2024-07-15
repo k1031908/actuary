@@ -22,7 +22,7 @@ import java.awt.Color;
 import javax.swing.JDesktopPane;
 import javax.swing.border.BevelBorder;
 import java.awt.CardLayout;
-import org.eclipse.wb.swing.FocusTraversalOnArray;
+//import org.eclipse.wb.swing.FocusTraversalOnArray;
 import javax.swing.JList;
 import javax.swing.AbstractListModel;
 import javax.swing.JMenuBar;
